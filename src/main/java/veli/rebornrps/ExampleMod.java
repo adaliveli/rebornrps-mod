@@ -1,4 +1,4 @@
-package veli.originsrework;
+package veli.rebornrps;
 
 import net.fabricmc.api.ModInitializer;
 

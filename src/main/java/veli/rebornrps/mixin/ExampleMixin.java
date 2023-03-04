@@ -1,4 +1,4 @@
-package veli.originsrework.mixin;
+package veli.rebornrps.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
